@@ -21,7 +21,7 @@ import org.bonn.se.ws18.midterm.views.MyConsole;
  * zuständig für die Eingabe und für das Zusammenspiel zwischen
  *
  * c/o Sascha Alda, H-BRS, 2015
- *
+ * testest
  */
 
 public class PrioTool {
